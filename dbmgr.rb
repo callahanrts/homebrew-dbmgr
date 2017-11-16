@@ -2,8 +2,8 @@ class Dbmgr < Formula
 
   desc "Backup and restore development databases"
   homepage "https://github.com/callahanrts/dbmgr"
-  url "https://github.com/callahanrts/dbmgr/archive/v0.1.4.tar.gz"
-  sha256 "88bffaf25c48bc72e939ed5c90d5a19fde53d67555ed28f0c19245908817288b"
+  url "https://github.com/callahanrts/dbmgr/archive/v0.2.0.tar.gz"
+  sha256 "4b96623c4dd0ab9cf6d2f54ff86648c89f647b86be855b3d637daf99d77821c4"
 
   head "https://github.com/callahanrts/dbmgr.git"
   bottle :unneeded
